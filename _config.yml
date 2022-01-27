@@ -9,8 +9,8 @@ port: 4001
 locale                   : "en-US"
 title                    : "Carol Martinez / Home"
 title_separator          : "-"
-name                     : &name "Dr. Carol Martinez"
-description              : &description "Research Scientist at Space Robotics Group, SnT – Interdisciplinary Centre for Security, Reliability and Trust"
+name                     : &name "Carol Martinez"
+description              : &description "Research Scientist"
 url                      : https://carolmartinez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carolMartinez/carolmartinez.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Carol Martinez"
   avatar           : "profile.png"
-  bio              : "Research Scientist on Space Robotics"
+  bio              : "Research Scientist in Space Robotics"
   location         : "Luxembourg"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -187,6 +187,13 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  mentoring:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
