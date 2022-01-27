@@ -10,8 +10,8 @@ redirect_from:
 
 
 ## Carol Martinez
-I am from **Bucaramanga, Colombia**, \\
-I am the **mother** of **3** *lovely* **kids**\\
+I am from **Bucaramanga, Colombia** \\
+I am the **mother** of **3** lovely **kids**\\
 Passionate about **Robotics** and **Cycling**.
 
 
