@@ -5,8 +5,10 @@ title: "Teaching"
 
 
 ## University of Luxembourg Interdisciplinary Space Master
-- Space Robotics II					2020 
-- Autonomous Space Systems			2021
+- Space Robotics II (Orbital Robotics)  2022
+- Autonomous Space Systems			    2021
+- Space Robotics II					    2020 
+
 
 
 ## Pontificia Universidad Javeriana, Department of Industrial Engineering, Bogotá- Colombia
