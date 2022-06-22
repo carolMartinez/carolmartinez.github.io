@@ -12,6 +12,9 @@ author_profile: true
 <iframe width="460" height="215" src="https://www.youtube.com/embed/videoseries?list=PLgYA51rB9xXwzUSRvtBFvftJQ7xQ-HLxV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
+
 ## Perception for Industrial Robots PIR project (2015-2020)
 #### This work was developed as Assistant Professor in the Pontificia Universidad Javeriana PUJ, Colombia
 
