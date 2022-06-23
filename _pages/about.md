@@ -22,6 +22,6 @@ My long-term goal is to push the frontiers of robotics technology for terrestria
 
 
 ### Curriculum
-You can download a PDF copy of my CV [here](/files/pdf/CVCarolMartinez_April2022.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/CVCarolMartinez_June2022.pdf).
 
 
