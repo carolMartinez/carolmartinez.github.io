@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Carol Martinez"
   avatar           : "profile.png"
-  bio              : "Research Scientist in Space Robotics"
+  bio              : "Research Scientist<br> Robot Perception, Robotic Manipulation, Space Robotics"
   location         : "Luxembourg"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
