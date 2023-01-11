@@ -16,7 +16,7 @@ In 2015, as Professor at Pontificia Universidad Javeriana, Colombia, I started m
 
 As a Research Scientist at [SpaceR](https://wwwfr.uni.lu/snt/research/spacer)-[SnT](https://wwwfr.uni.lu/snt) (2020), I expanded my research to Space applications. 
 
-My current research focuses on **perception** approaches for the autonomous operation of robots in space, especially for **multi-purpose manipulation** tasks for planetary and orbital robotics. It deals with fundamental and practical aspects of **Machine Learning for space** applications, including efforts on domain adaptation (to reduce sim2real gap), perception approaches for robot-environment interaction, and benchmarking (high-fidelity testing environment).
+My current research focuses on **perception** approaches for the autonomous operation of robots in space, especially for **multi-purpose manipulation** tasks for planetary and orbital robotics. It deals with fundamental and practical aspects of **Machine Learning for space** applications, including efforts on domain adaptation (to reduce sim2real gap), perception approaches for robot-environment **interaction**, and **benchmarking** (high-fidelity testing environment).
 
 <!--- , representation learning across multi-modal data (geometry and semantics, exploiting previous knowledge (probabilistic reasoning), uncertainty estimation for robot-environment interaction, model deployment (efficient and trustworthy), and benchmarking (high-fidelity testing environment). -->
 
