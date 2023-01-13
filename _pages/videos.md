@@ -24,7 +24,7 @@ Reinforcement Learning
 ## Perception for Industrial Robots PIR project (2015-2020)
 These videos correspond to the work developed as Assistant Professor at the Pontificia Universidad Javeriana PUJ, Colombia [YouTube Playlist](https://www.youtube.com/playlist?list=PLgYA51rB9xXyten-mM70tFMB6u1OTJNs7)
 
-<iframe width="160" height="50" src="https://www.youtube.com/watch?v=vROEpZhGbZk&list=PLgYA51rB9xXyten-mM70tFMB6u1OTJNs7&index=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="160" height="50" src="https://www.youtube.com/embed/vROEpZhGbZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
