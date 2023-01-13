@@ -15,9 +15,9 @@ author_profile: true
 -	Andrej Orsula.  Reinforcement Learning for Space Manipulation Tasks (Co-supervisor, member of the CET committee), 2021-current
 -	Maxime Hubert. Design of a Capturing, Absorbing, and SEcuring system for active space Debris removal (Co-supervisor, member of the CET committee), 2021-current
 -	Xiao Li. Design and implementation of software in the loop architecture for active space debris removal high-fidelity scenarios, (Co-supervisor, member of the CET committee), 2021-current
--	Deebul Nair. Exploiting Constraints for Dependable Learning Enabled Robotics and Autonomous Systems, (Member of the CET committee), 2021-Current
--   Jose Delgado. Processing of Lunar remote sensing data for purposes of landing site selection and surface exploration mission planning (Co-supervisor, member of the CET committee), 2020-current
 -	Kuldeep Barad. Towards Generalizable Vision-Based Autonomy for On-Orbit Manipulation (Co-supervisor, member of the CET committee), 2020-current
+-   Deebul Nair. Exploiting Constraints for Dependable Learning Enabled Robotics and Autonomous Systems, (Member of the CET committee), 2021-Current
+-   Jose Delgado. Processing of Lunar remote sensing data for purposes of landing site selection and surface exploration mission planning (Member of the CET committee), 2020-current
 
 ## Master
 

@@ -9,14 +9,22 @@ author_profile: true
 ## Space Robotics (2020-Current)
 These videos are part of the work done as **Research Scientis** at the Space Robotics group [SpaceR](https://wwwfr.uni.lu/snt/research/spacer)-[SnT](https://wwwfr.uni.lu/snt)
 
-<iframe width="160" height="50" src="https://www.youtube.com/embed/videoseries?list=PLgYA51rB9xXwzUSRvtBFvftJQ7xQ-HLxV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Robotic Manipulation** [YouTube Playlist](https://www.youtube.com/watch?v=iIFscA-CHRU&list=PLgYA51rB9xXynoPi84eUmstvUlMwtDcp2)
+
+Compliance control
+
+<iframe width="160" height="70" src="https://www.youtube.com/embed/iIFscA-CHRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+Reinforcement Learning
+<iframe width="160" height="70" src="https://www.youtube.com/embed/ELYO4gk41X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 ## Perception for Industrial Robots PIR project (2015-2020)
-These videos correspond to the work developed as Assistant Professor at the Pontificia Universidad Javeriana PUJ, Colombia
+These videos correspond to the work developed as Assistant Professor at the Pontificia Universidad Javeriana PUJ, Colombia [YouTube Playlist](https://www.youtube.com/playlist?list=PLgYA51rB9xXyten-mM70tFMB6u1OTJNs7)
 
-<iframe width="160" height="50" src="https://www.youtube.com/embed/videoseries?list=PLgYA51rB9xXyten-mM70tFMB6u1OTJNs7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="160" height="50" src="https://www.youtube.com/watch?v=vROEpZhGbZk&list=PLgYA51rB9xXyten-mM70tFMB6u1OTJNs7&index=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

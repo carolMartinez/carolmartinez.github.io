@@ -20,4 +20,4 @@ My current research focuses on **perception** approaches for the autonomous oper
 
 <!--- , representation learning across multi-modal data (geometry and semantics, exploiting previous knowledge (probabilistic reasoning), uncertainty estimation for robot-environment interaction, model deployment (efficient and trustworthy), and benchmarking (high-fidelity testing environment). -->
 
-Videos from my research can be found in my [youtube channelSpaceR](https://www.youtube.com/channel/UClKYqhPIn3iNJEYR0weyoWA)
+Videos from my research can be found in my [youtube channel](https://www.youtube.com/channel/UClKYqhPIn3iNJEYR0weyoWA)
