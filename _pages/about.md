@@ -19,9 +19,7 @@ In the last **16 years**, I have led interdisciplinary research in Computer Visi
 
 <!--- **My long-term goal** is to push the frontiers of robotics technology for terrestrial and space applications by building scalable, **generalizable**, and trustworthy **perception** algorithms  **to empower robots** to deal with unknown and uncertain environments. >-->
 
-Currently, I am a **Research Scientist** at the [SnT – Interdisciplinary Centre for Security, Reliability, and Trust](https://wwwfr.uni.lu/snt) of the [University of Luxembourg](https://wwwfr.uni.lu), in the Space Robotics Research Group [SpaceR](https://wwwfr.uni.lu/snt/research/spacer). I am **leading research** in the area of *orbital robotics* (space debris removal, vision-based navigation), *robotic manipulation* (control and perception), and *on-ground testing* environments for space technology. I am also **teaching** the course "Robotic Manipulation in Space" of the Interdisciplinary Space Master (ISM) at UniLu and supervise PhD and Master students. 
-
-My **current research** focuses on perception approaches for **multi-purpose** space robotic **manipulation**.
+Currently, I am a **Research Scientist** at the [SnT – Interdisciplinary Centre for Security, Reliability, and Trust](https://wwwfr.uni.lu/snt) of the [University of Luxembourg](https://wwwfr.uni.lu), in the Space Robotics Research Group [SpaceR](https://wwwfr.uni.lu/snt/research/spacer). I am **leading research** in the area of *orbital robotics* (space debris removal, vision-based navigation), *robotic manipulation* (control and perception), and *on-ground testing* environments for space technology. I am also **teaching** the course "Robotic Manipulation in Space" of the Interdisciplinary Space Master (ISM) at UniLu and supervise PhD and Master students. My **current research** focuses on perception approaches for **multi-purpose** space robotic **manipulation**.
 
 
 I am from **Bucaramanga, Colombia**, **Mother** of three lovely kids, and a ** volleyball and Cycling** fan.

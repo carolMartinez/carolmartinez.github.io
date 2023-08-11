@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+- Robotics technology for Intelligent In-Space Assembly, to be presented in IROS2023
 - Space Robotics Research group SpaceR. 
     - Universidad Cooperativa de Colombia UCC, July 2022 
     - Universidad Autonoma de Bucaramanga UNAB, July 2022

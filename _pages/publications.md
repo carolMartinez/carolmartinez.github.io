@@ -21,14 +21,27 @@ A complete list of my publications is available in [Google Scholar](https://scho
 
 
 ## Under Review
-- [Rendezvous in cislunar halo orbits: Hardware-in-the-loop simulation with coupled orbit and attitude dynamics]()
-Vivek Muralidharan, Mohatashem R. Makhdoomi, Kuldeep R. Barad, Lina M. Amaya-Mejia, Kathleen C. Howell, Carol Martinez Luna, and Miguel A. Olivares Mendez
 
-- [Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion](https://arxiv.org/abs/2209.15406), Mohatashem R. Makhdoomi, Vivek Muralidharan, Kuldeep R. Barad, Juan Sandoval, Miguel A. Olivares-Mendez, Carol Martinez Luna.
+- [GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Difussion Models]()
+Kuldeep R. Barad, Andrej Orsula, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez. 
 
-- [Evaluation of Position and Velocity Based Forward Dynamics Compliance Control (FDCC) for Robotic Interactions in Position Controlled Robots](https://arxiv.org/abs/2210.13421), Mohatashem R. Makhdoomi, Vivek Muralidharan, Kuldeep R. Barad, Juan Sandoval, Miguel A. Olivares-Mendez, Carol Martinez Luna.  
+- [Lightweight Floating Platfomr for Ground-Based Emulation of On-Orbit Scenarios]()
+Baris Yalcin, Carol Martinez, Sofia Coloma, Ernest Skrzypczyk, Miguel Olivares-Mendez, 
+
+- [On-Ground Validation of Orbital GNC: Visual Navigation Assessment in Robotic Testbed Facility]()
+Vivek Muralidharan, Mohatashem R. Makhdoomi, Augustinas Zinys, Bronislovas Razgus, 
+Marius Klimavicius, Miguel Olivares-Mendez, Carol Martinez,
+
 
 ## Latest Accepted Publications
+
+- [Hybrid-Compliant System for Soft Capture of Uncooperative Space Debris](https://www.mdpi.com/2076-3417/13/13/7968#:~:text=3.-,Hybrid%2DCompliant%20System%20for%20a%20Soft%20Capture%20of%20Space%20Debris,contact%20time%20for%20the%20capture.)
+Maxime Hybert Delisle, Olga-Orsalia Christidi-Loumpasefski, Baris Yalcin, Xiao Li, Miguel Olivares-Mendez, and Carol Martínez
+Applied Science Special issue “Recent Advances in Space Debris”, 2023
+
+- [Rendezvous in cislunar halo orbits: Hardware-in-the-loop simulation with coupled orbit and attitude dynamics](https://www.sciencedirect.com/science/article/pii/S0094576523003272)
+Vivek Muralidharan, Mohatashem R. Makhdoomi, Kuldeep R. Barad, Lina M. Amaya-Mejia, Kathleen C. Howell, Carol Martinez Luna, and Miguel A. Olivares Mendez
+Acta Astronautica, Elsevier, April 2023 
 
 - [Enhancing Rover Teleoperation on the Moon with Proprioceptive Sensors and Machine Learning Techniques](https://ieeexplore-ieee-org.proxy.bnl.lu/document/9857576). Sofia Coloma, Carol Martinez, Baris Yalcin, Miguel Olivares-Mendez
 International Conference on Intelligent Robots and Systems, Kyoto. IROS2022
@@ -43,17 +56,16 @@ International Conference on Intelligent Robots and Systems, Kyoto. IROS2022
 
 - [Autonomous control for satellite rendezvous in near-Earth orbits](https://ieeexplore-ieee-org.proxy.bnl.lu/document/9853882), Vivek Muralidharan, Carol Martinez Luna, Augustinas Zinys, Marius Klimavicius and Miguel Angel Olivares Mendez. IEEE International Conference on Control, Automation and Diagnosis, July 2022. 
 
+- [ET-Class, an Energy Transfer-based Classification of Space Debris Removal Methods and Missions](https://www.frontiersin.org/articles/10.3389/frspt.2022.792944/full)
+Baris Yalcin, Carol Martinez, Maxime Hubert, Miguel Olivares-Mendez. 
+Frontiers in Space Technologies, section Space Debris, January 2022
+
+<!---
 - [Image Features for Quality Analysis of Thick Blood Smears Employed in Malaria Diagnosis](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-022-04064-2)
 Wendy Fong Amarís, Carol Martínez, Daniel Suárez Venegas, and Liliana Cortes
 Malaria Journal, March 2022,  
 
 
-- [ET-Class, an Energy Transfer-based Classification of Space Debris Removal Methods and Missions](https://www.frontiersin.org/articles/10.3389/frspt.2022.792944/full)
-Baris Yalcin, Carol Martinez, Maxime Hubert, Miguel Olivares-Mendez. 
-Frontiers in Space Technologies, section Space Debris, January 2022
-
-
-<!---
 - [SORA Methodology for Multi-UAS Airframe Inspections in an Airport](https://doi.org/10.3390/drones5040141), 
 Carol Martinez, Pedro Sanchez, Abhishek Bera, Miguel Olivares-Mendez. 
 Drones, November 2021
