@@ -237,9 +237,9 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: workshops
+      type: Workshops
     values:
-      layout: workshops
+      layout: Workshops
       author_profile: true
       share: true
       comment: true
