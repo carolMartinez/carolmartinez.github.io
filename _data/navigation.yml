@@ -14,8 +14,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Software"
-  #  url: /software/
+  - title: "Workshops"
+    url: /workshops/
 
   - title: "Talks"
     url: /talks/
