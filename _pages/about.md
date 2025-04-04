@@ -11,7 +11,7 @@ redirect_from:
 
 ## Carol Martinez
 
-I am a **Roboticist**, Mechatronics Eng., with an MSc and a PhD in Robotics and Automation. My research focuses on enabling robots  **perceive to interact** with the world. My research is inspired by the remarkable ability of human perception to understand complex environments and the challenge of equipping robots with even a fraction of this intelligence.
+I am a **Roboticist**, Mechatronics Eng., with an MSc and a PhD in Robotics and Automation. My research focuses on **enabling robots perceive to interact** with the world. My research is inspired by the remarkable ability of human perception to understand complex environments and the challenge of equipping robots with even a fraction of this intelligence.
 
 <!--- I am an **application-oriented researcher** with PhD and an M.Sc. in Robotics and Automation. My research focuses on  **making robots Perceive** the world. I am motivated by the powerful ability of the **human perception** system to understand the world and the **difficulty for machines** to acquire at least part of this incredible capacity.-->
 
