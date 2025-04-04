@@ -21,10 +21,10 @@ A complete list of my publications is available in [Google Scholar](https://scho
 
 
 ## Under Review
-- [Passive Delay Mitigation in On-Orbit Emulations: An Experimental Validation](), March 2025
-- [Scaling Law Formulation for Emulating On-Orbit Operations in On-Ground Robot-Assisted Testing Facility](), Feb. 2025
-- [Adhesive-based Soft Gripping System for Space Debris Capture](), March 2025
-- [Adhesive-based Soft Gripping System for Space Debris Capture](), March 2025
+- Passive Delay Mitigation in On-Orbit Emulations: An Experimental Validation, March 2025
+- Scaling Law Formulation for Emulating On-Orbit Operations in On-Ground Robot-Assisted Testing Facility, Feb. 2025
+- Adhesive-based Soft Gripping System for Space Debris Capture, March 2025
+- Curriculum-Based Reinforcement Learning for 6-DoF Pre-Grasp of Rotating Space Debris, March 2025
 
 ## Latest Accepted Publications
 - [Enabling Intelligent Robotic Manipulation in Space](https://orbilu.uni.lu/handle/10993/62520), ERF, Stuttgart, 2025

@@ -22,8 +22,8 @@ author_profile: true
   Deebul Nair. Exploiting Constraints for Dependable Learning Enabled Robotics and Autonomous Systems, (Member of the CET committee), 2021-Current
 -->
 ## Master
--	George Kremer. Robotic End Effector for Space Operations using Compliant Mechanisms. (Supervisor), Master in Space Technology and Bussiness MSTB Sept 2025
--	Joao Pardal. Towards Tactile Sensing for Space Robotics Manipulation: Exploring the GelSight Vision-Based Tactile Sensor. (Supervisor), Master in Space Technology and Bussiness MSTB Sept 2025
+-	George Kremer. Robotic End Effector for Space Operations using Compliant Mechanisms. (Supervisor), MSTB Sept 2025
+-	Joao Pardal. Towards Tactile Sensing for Space Robotics Manipulation: Exploring the GelSight Vision-Based Tactile Sensor. (Supervisor), MSTB Sept 2025
 -	Lina Amaya. Comparative Study of Image-Based Visual Servoing Techniques for Autonomous Robotic Manipulation in Space Assembly Tasks. (Supervisor), Interdisciplinary Space Master ISM Sept 2023
 -	Nicolás Barrera. Visual Inspection Using Deep Learning Techniques for Industrial Manufacturing Processes with Class Imbalance and Limited Labeled Data. (Supervisor). July 2020. Best thesis award
 -	Diego Hernandez. An Intelligent System for Counting People on Transmilenio. (Supervisor). July 2020
