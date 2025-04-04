@@ -5,8 +5,9 @@ title: "Teaching"
 
 
 ## University of Luxembourg
-### Interdisciplinary Space Master
--   Robotic Manipulation In Space (RMinS)         2022
+### Master in Space Technology and Bussiness MSTB
+    - Robotic Manipulation In Space (RMinS_I and RMinS_II)         2024-ongoing
+    - Robotic Manipulation In Space (RMinS)         2022-2023
     - *Resources*: robotic arm used in classes [GitHub](https://github.com/snt-spacer/phantomx_pincher)
     - *News*: [homework1](https://www.linkedin.com/feed/update/urn:li:activity:6996461674408869891/), [homework2](https://www.linkedin.com/feed/update/urn:li:activity:7001128903339556864/)
         
