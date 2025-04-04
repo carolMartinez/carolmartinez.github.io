@@ -27,9 +27,9 @@ A complete list of my publications is available in [Google Scholar](https://scho
 - Curriculum-Based Reinforcement Learning for 6-DoF Pre-Grasp of Rotating Space Debris, March 2025
 
 ## Latest Accepted Publications
-- [Enabling Intelligent Robotic Manipulation in Space]https://orbilu.uni.lu/bitstream/10993/64586/1/Enabling_Intelligent_Robotic_Manipulation_in_Space_Poster_ERF_2025_Stuttgart.pdf), ERF, Stuttgart, 2025
+- [Enabling Intelligent Robotic Manipulation in Space](https://orbilu.uni.lu/bitstream/10993/64586/1/Enabling_Intelligent_Robotic_Manipulation_in_Space_Poster_ERF_2025_Stuttgart.pdf), ERF, Stuttgart, 2025
 
-- [Towards Benchmarking Robotic Manipulation in Space]((https://orbilu.uni.lu/handle/10993/62520), A. Orsula, A. Richard, M. Geist, M. Olivares-Mendez and C. Martinez, Conference on Robot Learning (CoRL) Workshop on Mastering Robot Manipulation in a World of Abundant Data (MRM-D), 2024
+- [Towards Benchmarking Robotic Manipulation in Space](https://orbilu.uni.lu/handle/10993/62520), A. Orsula, A. Richard, M. Geist, M. Olivares-Mendez and C. Martinez, Conference on Robot Learning (CoRL) Workshop on Mastering Robot Manipulation in a World of Abundant Data (MRM-D), 2024
 
 - [GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Difussion Models](https://ieeexplore.ieee.org/document/10744565)
 Kuldeep R. Barad, Andrej Orsula, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez. IEEE Access, 2024
