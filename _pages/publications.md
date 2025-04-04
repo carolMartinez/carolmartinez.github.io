@@ -21,19 +21,39 @@ A complete list of my publications is available in [Google Scholar](https://scho
 
 
 ## Under Review
-
-- [GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Difussion Models]()
-Kuldeep R. Barad, Andrej Orsula, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez. 
-
-- [Lightweight Floating Platfomr for Ground-Based Emulation of On-Orbit Scenarios]()
-Baris Yalcin, Carol Martinez, Sofia Coloma, Ernest Skrzypczyk, Miguel Olivares-Mendez, 
-
-- [On-Ground Validation of Orbital GNC: Visual Navigation Assessment in Robotic Testbed Facility]()
-Vivek Muralidharan, Mohatashem R. Makhdoomi, Augustinas Zinys, Bronislovas Razgus, 
-Marius Klimavicius, Miguel Olivares-Mendez, Carol Martinez,
-
+- [Passive Delay Mitigation in On-Orbit Emulations: An Experimental Validation](), March 2025
+- [Scaling Law Formulation for Emulating On-Orbit Operations in On-Ground Robot-Assisted Testing Facility](), Feb. 2025
+- [Adhesive-based Soft Gripping System for Space Debris Capture](), March 2025
+- [Adhesive-based Soft Gripping System for Space Debris Capture](), March 2025
 
 ## Latest Accepted Publications
+- [Enabling Intelligent Robotic Manipulation in Space](https://orbilu.uni.lu/handle/10993/62520), ERF, Stuttgart, 2025
+
+- [Towards Benchmarking Robotic Manipulation in Space](https://orbilu.uni.lu/bitstream/10993/64586/1/Enabling_Intelligent_Robotic_Manipulation_in_Space_Poster_ERF_2025_Stuttgart.pdf), A. Orsula, A. Richard, M. Geist, M. Olivares-Mendez and C. Martinez, Conference on Robot Learning (CoRL) Workshop on Mastering Robot Manipulation in a World of Abundant Data (MRM-D), 2024
+
+- [GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Difussion Models](https://ieeexplore.ieee.org/document/10744565)
+Kuldeep R. Barad, Andrej Orsula, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez. IEEE Access, 2024
+
+- [Leveraging Procedural Generation for Learning Autonomous Peg-in-Hole Assembly in Space](https://arxiv.org/abs/2405.01134), A. Orsula, M. Geist, M. Olivares-Mendez and C. Martinez, International Conference on Space Robotics iSpaRo, June 2024, Luxembourg 
+
+- [Visual Servoing for Robotic On-Orbit Servicing: A Survey](https://arxiv.org/abs/2409.02324), Lina Maria Amaya-Mejia, Mohamed Ghita, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez, International Conference on Space Robotics iSpaRo, June 2024, Luxembourg 
+
+- [Impact Behaviour Simulation Model of the Hybrid-Compliant’s Passive Unit for Active Space Debris Removal](https://orbilu.uni.lu/bitstream/10993/64167/1/Impact_Behaviour_Analysis_of_a_Passive_Compliant_Unit_for_Active_Space_Debris_Removal_Final.pdf), Maxime Hubert Delisle, Xiao Li, Barıs C. Yalcın, Miguel Olivares-Mendez and Carol Martinez
+IEEE 20th International Conference on Automation Science and Engineering CASE, August 2024, Bari, Italy
+
+- [A Modular High-Fidelity Photorealistic Simulator of Orbital Scenarios: A Space Debris Removal Use Case ](https://ieeexplore.ieee.org/document/10687527), Xiao LI, Antoine Richard, Barıs¸ C. Yalcın, Maxime Hubert Delisle, Miguel Olivares-Mendez, and Carol Martinez, International Conference on Space Robotics iSpaRo, June 2024, Luxembourg 
+
+- [Emulating On-Orbit Interactions Using Forward Dynamics Based Cartesian Motion ](https://arxiv.org/abs/2209.15406), Mohatashem Reyaz Makhdoomi, Vivek Muralidharan, Kuldeep R. Barad, Juan Sandoval, Miguel Olivares-Mendez, and Carol Martinez, Proceedings of the 2024 CEAS EuroGNC conference. Bristol, UK. June 2024. CEAS-GNC-2024-031.
+
+- [Adaptive Control Scheme for Space Debris Capture in the Presence of Mass and Inertia Uncertainty](https://ieeexplore.ieee.org/document/10460573)
+Olga-Orsalia Christidi-Loumpasefski, Bariş Can Yalçin, Maxime Hubert Delisle, Xiao Li, Miguel Olivares-Mendez and Carol Martinez, EEE Access, 2024
+
+- [On-Ground Validation of Orbital GNC: Visual Navigation Assessment in Robotic Testbed Facility](https://link-springer-com.proxy.bnl.lu/article/10.1007/s42064-024-0198-4)
+Vivek Muralidharan, Mohatashem R. Makhdoomi, Augustinas Zinys, Bronislovas Razgus, 
+Marius Klimavicius, Miguel Olivares-Mendez, Carol Martinez, Astrodynamics, 2024
+
+- [Lightweight Floating Platfomr for Ground-Based Emulation of On-Orbit Scenarios](https://ieeexplore.ieee.org/document/10237201)
+Baris Yalcin, Carol Martinez, Sofia Coloma, Ernest Skrzypczyk, Miguel Olivares-Mendez, IEEE Access,2023 
 
 - [Hybrid-Compliant System for Soft Capture of Uncooperative Space Debris](https://www.mdpi.com/2076-3417/13/13/7968#:~:text=3.-,Hybrid%2DCompliant%20System%20for%20a%20Soft%20Capture%20of%20Space%20Debris,contact%20time%20for%20the%20capture.)
 Maxime Hybert Delisle, Olga-Orsalia Christidi-Loumpasefski, Baris Yalcin, Xiao Li, Miguel Olivares-Mendez, and Carol Martínez
