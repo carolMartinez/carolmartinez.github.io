@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Carol Martinez"
   avatar           : "profile.png"
-  bio              : "Research Scientist<br> Intelligent Robotic Manipulation, Robot Perception, Space Robotics"
+  bio              : "Intelligent Robotic Manipulation, Robot Perception, Space Robotics"
   location         : "Luxembourg"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  workshops:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -237,9 +237,9 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: workshops
     values:
-      layout: single
+      layout: workshops
       author_profile: true
       share: true
       comment: true
