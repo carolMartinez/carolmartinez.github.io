@@ -31,6 +31,8 @@ A complete list of my publications is available in [Google Scholar](https://scho
 
 - [Towards Benchmarking Robotic Manipulation in Space](https://orbilu.uni.lu/handle/10993/62520), A. Orsula, A. Richard, M. Geist, M. Olivares-Mendez and C. Martinez, Conference on Robot Learning (CoRL) Workshop on Mastering Robot Manipulation in a World of Abundant Data (MRM-D), 2024
 
+- [Grasp-O: A Generative system for object-centric 6-DoF grasping of unknown objects](https://kuldeepbrd1.github.io/projects/grasp-o/), Kuldeep R. Barad, Andrej Orsula, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez, European Robotics Forum ERF24, Rimini, Italy, 2024
+
 - [GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Difussion Models](https://ieeexplore.ieee.org/document/10744565)
 Kuldeep R. Barad, Andrej Orsula, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez. IEEE Access, 2024
 
