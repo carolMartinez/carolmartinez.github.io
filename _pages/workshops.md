@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Workshops"
-permalink: /Workshops/
+permalink: /workshops/
 author_profile: true
 ---
 
@@ -9,5 +9,4 @@ author_profile: true
 
 - Workshop on Advances in Orbital Robotics: In Orbit Manipulation, Servicing, and Assembly. International Conference on Space Robotics, iSpaRo, June 2024
 
-- Workshop on [Assembling Large Infrastructures in Space using Intelligent Robots](https://wvrtc.com/iros2023/index.shtml), 
-IEEE/RSJ International Conference on Intelligent Robots and Systems IROS2023 October 1, 2023, 
+- Workshop on [Assembling Large Infrastructures in Space using Intelligent Robots](https://wvrtc.com/iros2023/index.shtml), IEEE/RSJ International Conference on Intelligent Robots and Systems IROS2023 October 1, 2023, 
