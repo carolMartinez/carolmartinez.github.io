@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+-	Active Space Debris Removal: From Passive to Intelligent Interfaces, Seminar Space Debris Removal, Luxembourg, March 2026
+-	Perception for Intelligent Robotic Manipulation in Space, Workshop at iSpaRo2025
+
 - Robotics technology for Intelligent In-Space Assembly, to be presented in IROS2023
 - Space Robotics Research group SpaceR. 
     - Universidad Cooperativa de Colombia UCC, July 2022 
