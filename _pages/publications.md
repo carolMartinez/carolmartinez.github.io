@@ -19,14 +19,30 @@ author_profile: true
 
 A complete list of my publications is available in [Google Scholar](https://scholar.google.com/citations?user=3XPQq7AAAAAJ&hl=en){:target="_blank"} and and [ORCID](https://orcid.org/0000-0003-3040-6119).
 
-
+<!---
 ## Under Review
 - Passive Delay Mitigation in On-Orbit Emulations: An Experimental Validation, March 2025
 - Scaling Law Formulation for Emulating On-Orbit Operations in On-Ground Robot-Assisted Testing Facility, Feb. 2025
 - Adhesive-based Soft Gripping System for Space Debris Capture, March 2025
 - Curriculum-Based Reinforcement Learning for 6-DoF Pre-Grasp of Rotating Space Debris, March 2025
+--->
 
 ## Latest Accepted Publications
+- [Ground-Based Testing of In-Orbit Interactions Under Scale and Time-Delay Limitations](https://ieeexplore.ieee.org/abstract/document/11418895), M.R. Makhdoomi, A. Candalot, B. Yalçın, J. Sandoval, M. Olivares-Mendez, and C. Martinez, , IEEE Access
+
+- [A Hybrid Adaptive Visual Servoing Approach for Robust Robotic Manipulation in Space](https://orbilu.uni.lu/handle/10993/67139), L. M. Amaya-Mejia, K. R. Barad, M. Olivares-Mendez, and C. Martinez, International Conference on Space Robotics (iSpaRo), 2025.
+
+- [Improving Contact Time in Active Debris Removal Interaction via Optimised Hybrid Compliance](https://orbilu.uni.lu/handle/10993/67848)M. H. Delisle, M.R. Makhdoomi, B. Yalçın, M. Olivares-Mendez, and C. Martinez, “Improving Contact Time in Active Debris Removal Interaction via Optimised Hybrid Compliance”, in International Conference on Space Robotics (iSpaRo), 2025.
+
+- [Sim2Dust: Mastering Dynamic Waypoint Tracking on Granular Media](https://arxiv.org/abs/2508.11503), A. Orsula, M. Geist, M. Olivares-Mendez, and C. Martinez, International Conference on Space Robotics (iSpaRo), 2025.
+
+- [Passive Delay Mitigation in On-Orbit Emulations: An Experimental Validation](), M.R. Makhdoomi, A. Candalot, B. Yalçın, J. Sandoval, M. Olivares-Mendez, and C. Martinez, “”, Symposium on Advanced Space Technologies in Robotics and Automation, ASTRA, October 2025
+
+- [Advancing Adaptive Autonomy through Procedural Space Environments](https://orbilu.uni.lu/handle/10993/66104), A. Orsula, M. Geist, M. Olivares-Mendez, and C. Martinez, “”, International Astronautical Congress IAC, October 2025
+
+- [Learning Tool-Aware Adaptive Compliant Control for Autonomous Regolith Excavation](https://arxiv.org/abs/2509.05475)A. Orsula, M. Geist, M. Olivares-Mendez, and C. Martinez, Symposium on Advanced Space Technologies in Robotics and Automation, ASTRA, October 2025
+
+
 - [Enabling Intelligent Robotic Manipulation in Space](https://orbilu.uni.lu/bitstream/10993/64586/1/Enabling_Intelligent_Robotic_Manipulation_in_Space_Poster_ERF_2025_Stuttgart.pdf), ERF, Stuttgart, 2025
 
 - [Towards Benchmarking Robotic Manipulation in Space](https://orbilu.uni.lu/handle/10993/62520), A. Orsula, A. Richard, M. Geist, M. Olivares-Mendez and C. Martinez, Conference on Robot Learning (CoRL) Workshop on Mastering Robot Manipulation in a World of Abundant Data (MRM-D), 2024
@@ -82,7 +98,7 @@ International Conference on Intelligent Robots and Systems, Kyoto. IROS2022
 Baris Yalcin, Carol Martinez, Maxime Hubert, Miguel Olivares-Mendez. 
 Frontiers in Space Technologies, section Space Debris, January 2022
 
-<!---
+<!--- 
 - [Image Features for Quality Analysis of Thick Blood Smears Employed in Malaria Diagnosis](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-022-04064-2)
 Wendy Fong Amarís, Carol Martínez, Daniel Suárez Venegas, and Liliana Cortes
 Malaria Journal, March 2022,  
